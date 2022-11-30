@@ -7,11 +7,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
-
 @font-face {
   font-family: "Inter";
   src: url("./assets/font/static/Inter-Regular.ttf");
@@ -20,4 +15,9 @@ code {
 @font-face {
   font-family: "Michroma";
   src: url("./assets/font/static/Michroma-Regular.ttf");
+}
+
+@font-face {
+  font-family: "RB Freigeist Neue";
+  src: url("./assets/font/Fontspring-DEMO-freigeist-regular.otf");
 }
