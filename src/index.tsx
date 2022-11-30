@@ -1,4 +1,3 @@
-import * as serviceWorker from 'serviceWorker';
 import ReactDOM from 'react-dom';
 import App from 'App';
 import React from 'react';
@@ -9,4 +8,3 @@ ReactDOM.render(
     </React.StrictMode>,
     document.getElementById('root')
 );
-serviceWorker.unregister();

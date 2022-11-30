@@ -1,5 +1,5 @@
 {
-    "name": "berry-material-react-ts",
+    "name": "10xFounders",
     "version": "3.0.0",
     "private": true,
     "dependencies": {
@@ -143,6 +143,7 @@
         "eslint-plugin-prettier": "^3.4.0",
         "eslint-plugin-react": "7.20.3",
         "eslint-plugin-react-hooks": "4.0.8",
+        "gh-pages": "^4.0.0",
         "prettier": "2.2.1",
         "sass": "^1.42.1"
     }
