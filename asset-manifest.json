@@ -1,21 +1,28 @@
 {
   "files": {
-    "main.css": "/10xFounders/static/css/main.5ca0effd.chunk.css",
-    "main.js": "/10xFounders/static/js/main.e7c9ce9d.chunk.js",
-    "main.js.map": "/10xFounders/static/js/main.e7c9ce9d.chunk.js.map",
+    "main.css": "/10xFounders/static/css/main.a2b3d76a.chunk.css",
+    "main.js": "/10xFounders/static/js/main.f1793632.chunk.js",
+    "main.js.map": "/10xFounders/static/js/main.f1793632.chunk.js.map",
     "runtime-main.js": "/10xFounders/static/js/runtime-main.450930a9.js",
     "runtime-main.js.map": "/10xFounders/static/js/runtime-main.450930a9.js.map",
-    "static/js/2.51585e4e.chunk.js": "/10xFounders/static/js/2.51585e4e.chunk.js",
-    "static/js/2.51585e4e.chunk.js.map": "/10xFounders/static/js/2.51585e4e.chunk.js.map",
+    "static/js/2.936b17e9.chunk.js": "/10xFounders/static/js/2.936b17e9.chunk.js",
+    "static/js/2.936b17e9.chunk.js.map": "/10xFounders/static/js/2.936b17e9.chunk.js.map",
     "index.html": "/10xFounders/index.html",
-    "static/css/main.5ca0effd.chunk.css.map": "/10xFounders/static/css/main.5ca0effd.chunk.css.map",
-    "static/js/2.51585e4e.chunk.js.LICENSE.txt": "/10xFounders/static/js/2.51585e4e.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/10xFounders/static/media/Michroma-Regular.d2ad0509.ttf"
+    "static/css/main.a2b3d76a.chunk.css.map": "/10xFounders/static/css/main.a2b3d76a.chunk.css.map",
+    "static/js/2.936b17e9.chunk.js.LICENSE.txt": "/10xFounders/static/js/2.936b17e9.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/10xFounders/static/media/Michroma-Regular.d2ad0509.ttf",
+    "static/media/person1.e18ba842.png": "/10xFounders/static/media/person1.e18ba842.png",
+    "static/media/person2.6de68bc0.png": "/10xFounders/static/media/person2.6de68bc0.png",
+    "static/media/person3.f88b1d2c.png": "/10xFounders/static/media/person3.f88b1d2c.png",
+    "static/media/person4.ead28763.png": "/10xFounders/static/media/person4.ead28763.png",
+    "static/media/person5.ceda9398.png": "/10xFounders/static/media/person5.ceda9398.png",
+    "static/media/person6.d01cc98a.png": "/10xFounders/static/media/person6.d01cc98a.png",
+    "static/media/stay.7cf69191.png": "/10xFounders/static/media/stay.7cf69191.png"
   },
   "entrypoints": [
     "static/js/runtime-main.450930a9.js",
-    "static/js/2.51585e4e.chunk.js",
-    "static/css/main.5ca0effd.chunk.css",
-    "static/js/main.e7c9ce9d.chunk.js"
+    "static/js/2.936b17e9.chunk.js",
+    "static/css/main.a2b3d76a.chunk.css",
+    "static/js/main.f1793632.chunk.js"
   ]
 }
