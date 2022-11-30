@@ -77,7 +77,7 @@
         "uuid": "^8.3.2",
         "yup": "^0.32.9"
     },
-    "homepage": "https://giacomosorbitoptal.github.io/10xFounder/",
+    "homepage": "https://giacomosorbitoptal.github.io/10xFounders/",
     "scripts": {
         "predeploy": "npm run build",
         "deploy": "gh-pages -d build",
