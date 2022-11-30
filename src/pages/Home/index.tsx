@@ -20,6 +20,7 @@ import imgStay from '../../assets/images/stay.png';
 
 const Content = styled.div`
     max-width: 1440px;
+    width: 1440px;
     margin: auto;
     position: relative;
     .btn {

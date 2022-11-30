@@ -6,6 +6,7 @@ import styled from 'styled-components';
 
 const Content = styled.div`
     max-width: 1440px;
+    width: 1440px;
     background: #ffd200;
     margin: auto;
     height: 218px;
